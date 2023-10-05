@@ -1,4 +1,4 @@
-### ADM Homework 2
+### Advanced Data Mining 2022/23 - Homework 2
 ------------
 
 Maria Alejandra Pena - 2056718
@@ -6,7 +6,10 @@ Maria Alejandra Pena - 2056718
 Simone Facchiano - 1919922
 
 Tito Tamburini - 1837335
+------------
 
+Data analysis and visualization.\
+Dataset containing instagram posts and accounts.
 
 **Files found in the repository:**
 
